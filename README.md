@@ -1,3 +1,3 @@
 # image-search
-you can search any image
-Uploaded by Anurag Pandey
+this image search page provides you any image you want to search.
+It uses APIs to generate the images.
